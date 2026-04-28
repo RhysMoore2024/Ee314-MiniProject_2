@@ -1,1 +1,2 @@
-this is the verrsion 2
+This is the version 2,
+Project was rewritten to be Modular
